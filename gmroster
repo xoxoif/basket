@@ -4290,7 +4290,7 @@
 
 {"tid":27,
 "name":"OG Anunoby",
-"ratings":[{"hgt":52,"stre":58,"spd":62,"jmp":63,"endu":43,"ins":52,"dnk":64,"ft":21,"fg":51,"tp":66,"diq":49,"oiq":54,"drb":55,"pss":42,"reb":54}],
+"ratings":[{"hgt":90,"stre":98,"spd":99,"jmp":97,"endu":85,"ins":87,"dnk":89,"ft":87,"fg":90,"tp":85,"diq":89,"oiq":90,"drb":90,"pss":90,"reb":85}],
 "pos":"F","hgt":80,"weight":215,
 "born":{"year":1998,"loc":"Jefferson City, MO"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png",
@@ -6989,9 +6989,9 @@
 
 {"tid":27,
 "name":"Fred VanVleet",
-"ratings":[{"hgt":22,"stre":42,"spd":61,"jmp":61,"endu":52,"ins":49,"dnk":69,"ft":64,"fg":65,"tp":64,"diq":55,"oiq":60,"drb":66,"pss":60,"reb":52}],
-"pos":"PG","hgt":72,"weight":195,
-"born":{"year":1994,"loc":"Rockford, IL"},
+"ratings":[{"hgt":89,"stre":90,"spd":97,"jmp":90,"endu":91,"ins":91,"dnk":90,"ft":90,"fg":98,"tp":98,"diq":97,"oiq":98,"drb":98,"pss":98,"reb":99}],
+"pos":"PG","hgt":72,"weight":199
+"born":{"year":1999,"loc":"Rockford, IL"},
 "imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png",
 "contract":{"amount":8650,"exp":2020},
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},
